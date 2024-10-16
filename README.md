@@ -6,7 +6,7 @@ Push in Version Control: Nei sistemi di controllo versione, come Git, "push" è 
 
 **Cos'è un pull?**
 
-In informatica, specialmente nel contesto dei sistemi di controllo versione come Git, un "pull" è un comando utilizzato per scaricare e unire le modifiche da un repository remoto al tuo repository locale.
+Un "pull" è un comando utilizzato per scaricare e unire le modifiche da un repository remoto al tuo repository locale.
 
 Funzioni principali del comando git pull:
 Scarica: Recupera i dati più recenti dal repository remoto (solitamente da un branch specifico).
